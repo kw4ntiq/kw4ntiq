@@ -4,9 +4,11 @@
 · HI DEVS, WELCOME ON MY PROFILE ·
 </h2>
 
-- 🧠 5th year student at Epitech
-- 🎏 Unreal Engine and C++ enthusiast
-- 🐲 Passionate about playing and making video games
+- 🧠 5th-year Software Engineering student at Epitech
+- 🎮 Unreal Engine and C/C++ enthusiast
+- 🔌 Building personal embedded & IoT projects (mainly with ESP32 & STM32)
+- 🛡️ Learning and practicing offensive security and reverse engineering
+- 📲 Building custom mobile/desktop apps and websites for personal projects or clients
 
 <h3 align="center">
 · GITHUB STATS OVERVIEW ·
@@ -15,51 +17,51 @@
 <!-- STATS-SECTION:START -->
 🎏 Quick overview of my profile
 ```text
-👥 - Followers: 14
-👤 - Following: 15
+👥 - Followers: 12
+👤 - Following: 10
 📂 - Public repositories: 15
-🔒 - Private repositories: 6
-⭐ - Total stars: 26
-🔃 - Pull requests: 387
-🏮 - Issues: 31
-🐲 - Repositories contributed to: 21
-🍃 - Commits made: 1287
+🔒 - Private repositories: 23
+⭐ - Total stars: 28
+🔃 - Pull requests: 388
+🏮 - Issues: 34
+🐲 - Repositories contributed to: 38
+🍃 - Commits made: 1527
 📝 - Gists: 2
 ```
 
 🎉 Fun Facts:
 ```text
-🏆 - Longest commit streak: 8 days
-💖 - Most liked repo: XashInjector with 8 stars
-📅 - Days on GitHub: 1581 days (4 years)
-🌴 - Weekend commits ratio: 30%
+🏆 - Longest commit streak: 18 days
+💖 - Most liked repo: XashInjector with 9 stars
+📅 - 4 years and 8 months on GitHub
+🌴 - Weekend commits ratio: 29%
 🌪️ - Commit storm day: 5/30/2023 with 35 commits
-📊 - Average commits per repo: 61
+📊 - Average commits per repo: 40
 ```
 
 📊 Top languages
 ```text
-C         : #######.................. 27%
-C++       : #########................ 38%
-Haskell   : ###...................... 12%
-Python    : #........................ 6%
-TypeScript: ####..................... 18%
+Assembly  : #........................ 5%
+C         : ########................. 34%
+C++       : #########................ 35%
+Haskell   : ###...................... 13%
+TypeScript: ###...................... 13%
 ```
 🌉 Working hours stats
 ```text
-Morning   : #####.................... 21%
-Afternoon : ########................. 32%
-Evening   : #######.................. 27%
-Night     : #####.................... 19%
+Morning   : #####.................... 19%
+Afternoon : #########................ 35%
+Evening   : #######.................. 28%
+Night     : ####..................... 18%
 ```
 📅 Working days stats
 ```text
-Sunday    : #####.................... 18%
-Monday    : ###...................... 13%
-Tuesday   : ####..................... 18%
+Sunday    : ####..................... 17%
+Monday    : ###...................... 12%
+Tuesday   : #####.................... 18%
 Wednesday : ####..................... 15%
-Thursday  : ###...................... 12%
-Friday    : ###...................... 12%
-Saturday  : ###...................... 11%
+Thursday  : ###...................... 13%
+Friday    : ###...................... 13%
+Saturday  : ###...................... 12%
 ```
 <!-- STATS-SECTION:END -->
