@@ -16,14 +16,14 @@
 🎏 Quick overview of my profile
 ```text
 👥 - Followers: 14
-👤 - Following: 12
+👤 - Following: 10
 📂 - Public repositories: 15
 🔒 - Private repositories: 20
 ⭐ - Total stars: 26
 🔃 - Pull requests: 388
 🏮 - Issues: 32
 🐲 - Repositories contributed to: 35
-🍃 - Commits made: 1426
+🍃 - Commits made: 1427
 📝 - Gists: 2
 ```
 
@@ -48,7 +48,7 @@ TypeScript: ###...................... 13%
 🌉 Working hours stats
 ```text
 Morning   : #####.................... 20%
-Afternoon : #########................ 34%
+Afternoon : ########................. 34%
 Evening   : #######.................. 28%
 Night     : #####.................... 18%
 ```
