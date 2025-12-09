@@ -19,7 +19,7 @@
 👤 - Following: 10
 📂 - Public repositories: 15
 🔒 - Private repositories: 20
-⭐ - Total stars: 26
+⭐ - Total stars: 27
 🔃 - Pull requests: 388
 🏮 - Issues: 33
 🐲 - Repositories contributed to: 35
@@ -30,7 +30,7 @@
 🎉 Fun Facts:
 ```text
 🏆 - Longest commit streak: 18 days
-💖 - Most liked repo: XashInjector with 8 stars
+💖 - Most liked repo: XashInjector with 9 stars
 📅 - 4 years and 5 months on GitHub
 🌴 - Weekend commits ratio: 29%
 🌪️ - Commit storm day: 5/30/2023 with 35 commits
