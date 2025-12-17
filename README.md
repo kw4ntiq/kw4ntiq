@@ -23,7 +23,7 @@
 🔃 - Pull requests: 388
 🏮 - Issues: 33
 🐲 - Repositories contributed to: 35
-🍃 - Commits made: 1434
+🍃 - Commits made: 1435
 📝 - Gists: 2
 ```
 
@@ -54,7 +54,7 @@ Night     : #####.................... 19%
 ```
 📅 Working days stats
 ```text
-Sunday    : ####..................... 18%
+Sunday    : ####..................... 17%
 Monday    : ###...................... 12%
 Tuesday   : #####.................... 18%
 Wednesday : ####..................... 16%
