@@ -23,7 +23,7 @@
 🔃 - Pull requests: 388
 🏮 - Issues: 33
 🐲 - Repositories contributed to: 36
-🍃 - Commits made: 1470
+🍃 - Commits made: 1476
 📝 - Gists: 2
 ```
 
@@ -41,9 +41,9 @@
 ```text
 Assembly  : #........................ 5%
 C         : ########................. 33%
-C++       : ########................. 34%
+C++       : #########................ 34%
 Haskell   : ###...................... 13%
-TypeScript: ####..................... 16%
+TypeScript: ####..................... 15%
 ```
 🌉 Working hours stats
 ```text
