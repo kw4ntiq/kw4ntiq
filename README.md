@@ -20,12 +20,12 @@
 👥 - Followers: 12
 👤 - Following: 10
 📂 - Public repositories: 16
-🔒 - Private repositories: 23
+🔒 - Private repositories: 22
 ⭐ - Total stars: 29
 🔃 - Pull requests: 388
 🏮 - Issues: 34
-🐲 - Repositories contributed to: 39
-🍃 - Commits made: 1556
+🐲 - Repositories contributed to: 38
+🍃 - Commits made: 1553
 📝 - Gists: 2
 ```
 
@@ -34,17 +34,17 @@
 🏆 - Longest commit streak: 18 days
 💖 - Most liked repo: XashInjector with 9 stars
 📅 - 4 years and 9 months on GitHub
-🌴 - Weekend commits ratio: 30%
+🌴 - Weekend commits ratio: 29%
 🌪️ - Commit storm day: 5/30/2023 with 35 commits
-📊 - Average commits per repo: 40
+📊 - Average commits per repo: 41
 ```
 
 📊 Top languages
 ```text
-C         : #########................ 35%
-C++       : ########................. 33%
+Assembly  : #........................ 5%
+C         : #########................ 36%
+C++       : ########................. 34%
 Haskell   : ###...................... 13%
-Python    : ##....................... 6%
 TypeScript: ###...................... 13%
 ```
 🌉 Working hours stats
@@ -58,7 +58,7 @@ Night     : ####..................... 18%
 ```text
 Sunday    : ####..................... 17%
 Monday    : ###...................... 12%
-Tuesday   : ####..................... 18%
+Tuesday   : #####.................... 18%
 Wednesday : ####..................... 15%
 Thursday  : ###...................... 13%
 Friday    : ###...................... 13%
