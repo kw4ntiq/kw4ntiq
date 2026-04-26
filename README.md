@@ -20,12 +20,12 @@
 👥 - Followers: 12
 👤 - Following: 10
 📂 - Public repositories: 16
-🔒 - Private repositories: 21
+🔒 - Private repositories: 22
 ⭐ - Total stars: 29
 🔃 - Pull requests: 387
 🏮 - Issues: 34
-🐲 - Repositories contributed to: 37
-🍃 - Commits made: 1544
+🐲 - Repositories contributed to: 38
+🍃 - Commits made: 1547
 📝 - Gists: 2
 ```
 
@@ -36,15 +36,15 @@
 📅 - 4 years and 9 months on GitHub
 🌴 - Weekend commits ratio: 30%
 🌪️ - Commit storm day: 5/30/2023 with 35 commits
-📊 - Average commits per repo: 42
+📊 - Average commits per repo: 41
 ```
 
 📊 Top languages
 ```text
-Assembly  : #........................ 5%
 C         : #########................ 37%
-C++       : #########................ 35%
+C++       : #########................ 34%
 Haskell   : ###...................... 13%
+Python    : ##....................... 7%
 TypeScript: ##....................... 10%
 ```
 🌉 Working hours stats
