@@ -25,7 +25,7 @@
 🔃 - Pull requests: 387
 🏮 - Issues: 34
 🐲 - Repositories contributed to: 38
-🍃 - Commits made: 1547
+🍃 - Commits made: 1548
 📝 - Gists: 2
 ```
 
@@ -41,10 +41,10 @@
 
 📊 Top languages
 ```text
+Assembly  : #........................ 5%
 C         : #########................ 37%
-C++       : #########................ 34%
+C++       : #########................ 35%
 Haskell   : ###...................... 13%
-Python    : ##....................... 7%
 TypeScript: ##....................... 10%
 ```
 🌉 Working hours stats
