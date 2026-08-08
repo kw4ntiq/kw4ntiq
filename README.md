@@ -33,7 +33,7 @@
 ```text
 🏆 - Longest commit streak: 18 days
 💖 - Most liked repo: XashInjector with 10 stars
-📅 - 5 years on GitHub
+📅 - 5 years and 1 month on GitHub
 🌴 - Weekend commits ratio: 30%
 🌪️ - Commit storm day: 5/30/2023 with 35 commits
 📊 - Average commits per repo: 40
