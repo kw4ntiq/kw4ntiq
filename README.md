@@ -17,7 +17,7 @@
 <!-- STATS-SECTION:START -->
 🎏 Quick overview of my profile
 ```text
-👥 - Followers: 13
+👥 - Followers: 12
 👤 - Following: 10
 📂 - Public repositories: 16
 🔒 - Private repositories: 23
